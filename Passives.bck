@@ -1,0 +1,71 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+$ENDCMP
+#
+$CMP CP_Small
+D Polarised capacitor
+$ENDCMP
+#
+$CMP C_Small
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+$CMP Crystal_Small
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP D_Schottky
+D Diode schottky
+$ENDCMP
+#
+$CMP D_Schottky_Small
+D Diode Schottky
+$ENDCMP
+#
+$CMP JP-3
+D 3-Position Jumper
+K Jumper, Link
+$ENDCMP
+#
+$CMP Jumper_NC_Small
+D Jumper normally close
+K Jumper, Link
+$ENDCMP
+#
+$CMP L
+D Inductor
+$ENDCMP
+#
+$CMP L_Small
+D Inductor
+$ENDCMP
+#
+$CMP POT
+D Resistor
+$ENDCMP
+#
+$CMP POT-Quad
+D Resistor
+$ENDCMP
+#
+$CMP R
+D Resistor
+$ENDCMP
+#
+$CMP R_Small
+D Resistor
+$ENDCMP
+#
+#End Doc Library
