@@ -2,6 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP LM324
 D Quad Op-Amp
+K opamp
 $ENDCMP
 #
 #End Doc Library
