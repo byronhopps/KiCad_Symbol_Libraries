@@ -72,6 +72,14 @@ $CMP R
 D Resistor
 $ENDCMP
 #
+$CMP R_Array-4
+D Resistor
+$ENDCMP
+#
+$CMP R_Array-4_Small
+D Resistor
+$ENDCMP
+#
 $CMP R_Small
 D Resistor
 $ENDCMP
