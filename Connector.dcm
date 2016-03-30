@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP USB_A_DUAL
+D B connector
+K USB USB_B
+$ENDCMP
+#
 $CMP USB_B
 D B connector
 K USB USB_B
