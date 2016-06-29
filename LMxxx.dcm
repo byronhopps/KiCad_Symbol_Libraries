@@ -5,6 +5,11 @@ D Quad Comparator
 K compare, comparator
 $ENDCMP
 #
+$CMP LM2903
+D Dual Comparator
+K compare, comparator
+$ENDCMP
+#
 $CMP LM324
 D Quad Op-Amp
 K opamp

@@ -1,8 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP LM2901
-D Quad Op-Amp
-K opamp
+D Quad Comparator
+K compare, comparator
+$ENDCMP
+#
+$CMP LM2903
+D Quad Comparator
+K compare, comparator
 $ENDCMP
 #
 $CMP LM324
