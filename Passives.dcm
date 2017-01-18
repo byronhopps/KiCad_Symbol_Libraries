@@ -43,7 +43,7 @@ D Diode
 $ENDCMP
 #
 $CMP D_Zener
-D Diode
+D Zener Diode
 $ENDCMP
 #
 $CMP JP-3
@@ -51,8 +51,13 @@ D 3-Position Jumper
 K Jumper, Link
 $ENDCMP
 #
-$CMP Jumper_NC_Small
-D Jumper normally close
+$CMP JP_NC
+D Normally Closed Jumper
+K Jumper, Link
+$ENDCMP
+#
+$CMP JP_NO
+D Normally Open Jumper
 K Jumper, Link
 $ENDCMP
 #
