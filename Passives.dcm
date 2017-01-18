@@ -61,7 +61,11 @@ D Normally Open Jumper
 K Jumper, Link
 $ENDCMP
 #
-$CMP L
+$CMP L_Small
+D Inductor
+$ENDCMP
+#
+$CMP L_Big
 D Inductor
 $ENDCMP
 #
@@ -69,7 +73,7 @@ $CMP LED
 K LED
 $ENDCMP
 #
-$CMP L_Small
+$CMP L
 D Inductor
 $ENDCMP
 #
