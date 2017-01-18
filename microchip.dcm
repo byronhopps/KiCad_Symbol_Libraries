@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2210
+D USB-SPI Converter, SOIC Package
+K USB SPI
+$ENDCMP
+#
+$CMP MCP2515
+D CAN Controller (TSSOP)
+K CAN SPI Controller
+$ENDCMP
+#
+#End Doc Library
