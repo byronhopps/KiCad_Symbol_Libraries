@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74xx00
+D Quad 2-input NAND gates
+$ENDCMP
+#
 $CMP 74xx08
 D Quad 2-input AND gates
 $ENDCMP
@@ -12,8 +16,9 @@ $CMP 74xx11
 D Triple 3-input AND gates
 $ENDCMP
 #
-$CMP 74xx00
-D Quad 2-input NAND gates
+$CMP 74xx194
+D 4-Bit Bidirectional Universal Shift Register
+K shift, shift register
 $ENDCMP
 #
 #End Doc Library
