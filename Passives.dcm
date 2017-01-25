@@ -61,11 +61,7 @@ D Normally Open Jumper
 K Jumper, Link
 $ENDCMP
 #
-$CMP L_Small
-D Inductor
-$ENDCMP
-#
-$CMP L_Big
+$CMP L
 D Inductor
 $ENDCMP
 #
@@ -73,7 +69,11 @@ $CMP LED
 K LED
 $ENDCMP
 #
-$CMP L
+$CMP L_Big
+D Inductor
+$ENDCMP
+#
+$CMP L_Small
 D Inductor
 $ENDCMP
 #
@@ -99,6 +99,11 @@ $ENDCMP
 #
 $CMP R_Array-4_Small
 D Resistor
+$ENDCMP
+#
+$CMP R_Sense
+D Resistor with Kelvin Leads
+K sense, kelvin, resistor
 $ENDCMP
 #
 $CMP R_Small
