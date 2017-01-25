@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LT1935
+D 1.2MHz Boost DC-DC Converter
+K boost, dc-dc
+$ENDCMP
+#
 #End Doc Library
