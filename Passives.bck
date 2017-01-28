@@ -102,7 +102,8 @@ D Resistor
 $ENDCMP
 #
 $CMP R_Sense
-D Resistor
+D Resistor with Kelvin Leads
+K sense, kelvin, resistor
 $ENDCMP
 #
 $CMP R_Small

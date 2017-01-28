@@ -16,6 +16,11 @@ $CMP C_Small
 D Unpolarized capacitor
 $ENDCMP
 #
+$CMP Cell
+D Single cell battery
+K battery, cell
+$ENDCMP
+#
 $CMP Crystal
 D Two pin crystal
 K Quartz, Ceramic, Filter, Resonator
