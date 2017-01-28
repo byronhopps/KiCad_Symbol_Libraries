@@ -86,6 +86,10 @@ $CMP Led_Small
 D Led
 $ENDCMP
 #
+$CMP NTC
+D Resistor
+$ENDCMP
+#
 $CMP POT
 D Resistor
 $ENDCMP
