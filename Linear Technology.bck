@@ -5,4 +5,9 @@ D 1.2MHz Boost DC-DC Converter
 K boost, dc-dc
 $ENDCMP
 #
+$CMP LTC4002ES8-4.2
+D Standalone Li-Ion Switch Mode Battery Charger
+K charger, lithium-ion, li-ion
+$ENDCMP
+#
 #End Doc Library
