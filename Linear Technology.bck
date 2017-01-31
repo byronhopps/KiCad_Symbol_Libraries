@@ -5,8 +5,13 @@ D 1.2MHz Boost DC-DC Converter
 K boost, dc-dc
 $ENDCMP
 #
+$CMP LTC1540
+D Nanopower Comparator with Reference
+K comparator, low-power, nanopower
+$ENDCMP
+#
 $CMP LTC4002ES8-4.2
-D Standalone Li-Ion Switch Mode Battery Charger
+D Li-Ion Switching Battery Charger
 K charger, lithium-ion, li-ion
 $ENDCMP
 #
