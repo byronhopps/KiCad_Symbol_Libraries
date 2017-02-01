@@ -95,8 +95,8 @@ ENDDEF
 # C_Small
 #
 DEF C_Small C 0 10 N N 1 F N
-F0 "C" 25 75 50 H V L CNN
-F1 "C_Small" 25 -75 50 H V L CNN
+F0 "C" 75 50 50 H V L CNN
+F1 "C_Small" 75 -50 50 H V L CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST

@@ -87,7 +87,8 @@ D Led
 $ENDCMP
 #
 $CMP NTC
-D Resistor
+D NTC Thermistor
+K thermistor
 $ENDCMP
 #
 $CMP POT
