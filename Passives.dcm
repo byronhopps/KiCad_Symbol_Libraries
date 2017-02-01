@@ -51,6 +51,11 @@ $CMP D_Zener
 D Zener Diode
 $ENDCMP
 #
+$CMP F_Small
+D Fuse
+K fuse
+$ENDCMP
+#
 $CMP JP-3
 D 3-Position Jumper
 K Jumper, Link
