@@ -292,4 +292,21 @@ X ~ 2 200 0 120 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# SPST_Push_Small
+#
+DEF SPST_Push_Small S 0 40 N Y 1 F N
+F0 "S" -25 100 60 H V R CNN
+F1 "SPST_Push_Small" 0 -100 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+C -60 0 20 0 1 0 N
+C 60 0 20 0 1 0 N
+P 2 0 1 0  -70 40  70 40 N
+P 2 0 1 0  0 40  0 90 N
+X ~ 1 -100 0 20 R 50 50 1 1 P
+X ~ 2 100 0 20 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library
