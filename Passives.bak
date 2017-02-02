@@ -457,7 +457,7 @@ F3 "" 0 0 50 V V C CNN
 $FPLIST
  CP*
  SM*
- D_*
+ LED_*
 $ENDFPLIST
 DRAW
 P 2 0 1 0  -30 -40  -30 40 N
