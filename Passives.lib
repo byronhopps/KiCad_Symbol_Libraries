@@ -182,6 +182,7 @@ $FPLIST
  *SingleDiode
  *_Diode_*
  *SingleDiode*
+ D_*
 $ENDFPLIST
 DRAW
 P 2 0 1 6  -50 50  -50 -50 N
@@ -204,6 +205,7 @@ $FPLIST
  *SingleDiode
  *SingleDiode*
  *_Diode_*
+ D_*
 $ENDFPLIST
 DRAW
 P 3 0 1 0  50 50  -50 0  50 -50 F
@@ -226,6 +228,7 @@ $FPLIST
  *SingleDiode
  *SingleDiode*
  *_Diode_*
+ D_*
 $ENDFPLIST
 DRAW
 P 2 0 1 0  -30 -40  -30 40 N
@@ -250,6 +253,7 @@ $FPLIST
  *SingleDiode
  *SingleDiode*
  *_Diode_*
+ D_*
 $ENDFPLIST
 DRAW
 P 2 0 1 0  -30 -40  -30 40 N
