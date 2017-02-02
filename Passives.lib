@@ -566,11 +566,11 @@ F1 "R" 100 -50 50 H V L CNN
 F2 "" 150 38 50 V V C CNN
 F3 "" 0 0 50 V V C CNN
 $FPLIST
- C?
- C_????_*
- C_????
- SMD*_c
- Capacitor*
+ R?
+ R_????_*
+ R_????
+ SMD*_r
+ Resistor*
 $ENDFPLIST
 DRAW
 P 6 0 1 0  0 0  -75 -15  75 -45  -75 -75  75 -105  0 -120 N
@@ -668,11 +668,11 @@ F1 "R_Small" 75 -50 50 H V L CNN
 F2 "" 0 0 50 V V C CNN
 F3 "" 0 0 50 V V C CNN
 $FPLIST
- C?
- C_????_*
- C_????
- SMD*_c
- Capacitor*
+ R?
+ R_????_*
+ R_????
+ SMD*_r
+ Resistor*
 $ENDFPLIST
 DRAW
 P 6 0 1 0  0 0  -50 -10  50 -30  -50 -50  50 -70  0 -80 N
