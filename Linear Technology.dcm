@@ -10,6 +10,11 @@ D Nanopower Comparator with Reference
 K comparator, low-power, nanopower
 $ENDCMP
 #
+$CMP LTC4002-4.2
+D Li-Ion Switching Battery Charger
+K charger, lithium-ion, li-ion
+$ENDCMP
+#
 $CMP LTC4002ES8-4.2
 D Li-Ion Switching Battery Charger
 K charger, lithium-ion, li-ion
