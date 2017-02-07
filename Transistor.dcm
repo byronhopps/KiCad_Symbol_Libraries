@@ -6,7 +6,7 @@ K nmos n-mos n-mosfet transistor
 $ENDCMP
 #
 $CMP PMOS_DGS
-D Transistor P-MOSFET (general)
+D P-Type MOSFET (general)
 K pmos p-mos p-mosfet transistor
 $ENDCMP
 #
@@ -15,8 +15,13 @@ D Transistor P-MOSFET (general)
 K pmos p-mos p-mosfet transistor
 $ENDCMP
 #
+$CMP PMOS_GDS
+D P-Type MOSFET (general)
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
 $CMP PMOS_GSD
-D Transistor P-MOSFET (general)
+D P-Type MOSFET (general)
 K pmos p-mos p-mosfet transistor
 $ENDCMP
 #
