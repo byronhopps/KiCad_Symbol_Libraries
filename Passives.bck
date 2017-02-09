@@ -125,4 +125,8 @@ $CMP R_Small
 D Resistor
 $ENDCMP
 #
+$CMP TVS
+D Diode
+$ENDCMP
+#
 #End Doc Library
