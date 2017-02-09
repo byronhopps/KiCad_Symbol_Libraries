@@ -1,12 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP NMOS
-D Transistor N-MOSFET (general)
-K nmos n-mos n-mosfet transistor
-$ENDCMP
-#
 $CMP NMOS_GSD
-D Transistor N-MOSFET (general)
+D N-Type MOSFET (general)
 K nmos n-mos n-mosfet transistor
 $ENDCMP
 #
