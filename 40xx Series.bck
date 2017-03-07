@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 4011
-D Quad 2-Input NAND Gates
-K nand, quad
-$ENDCMP
-#
-#End Doc Library
