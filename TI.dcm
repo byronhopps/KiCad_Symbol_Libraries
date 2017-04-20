@@ -5,6 +5,11 @@ D Wide Input Non-synchronous Buck Controller
 K buck, dcdc, dc-dc
 $ENDCMP
 #
+$CMP LMR16006
+D High-Efficiency Simple Switcher
+K simple switcher, dcdc, dc-dc
+$ENDCMP
+#
 $CMP TPA3116D2
 D Class D Power Amplifier
 $ENDCMP
