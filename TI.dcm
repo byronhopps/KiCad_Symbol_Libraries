@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM5088-2
+D Wide Input Non-synchronous Buck Controller
+K buck, dcdc, dc-dc
+$ENDCMP
+#
 $CMP TPA3116D2
 D Class D Power Amplifier
 $ENDCMP
