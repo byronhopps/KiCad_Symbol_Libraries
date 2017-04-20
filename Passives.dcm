@@ -39,6 +39,10 @@ $CMP D_Schottky
 D Diode schottky
 $ENDCMP
 #
+$CMP D_Schottky_2Anode
+D Diode schottky
+$ENDCMP
+#
 $CMP D_Schottky_Small
 D Diode Schottky
 $ENDCMP
@@ -57,6 +61,11 @@ K fuse
 $ENDCMP
 #
 $CMP JP-3
+D 3-Position Jumper
+K Jumper, Link
+$ENDCMP
+#
+$CMP JP-3_R
 D 3-Position Jumper
 K Jumper, Link
 $ENDCMP
