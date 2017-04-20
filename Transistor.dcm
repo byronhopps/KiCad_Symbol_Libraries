@@ -5,6 +5,10 @@ D N-Type MOSFET (general)
 K nmos n-mos n-mosfet transistor
 $ENDCMP
 #
+$CMP NMOS_S3GD4
+D N-Type MOSFET (General)
+$ENDCMP
+#
 $CMP PMOS_DGS
 D P-Type MOSFET (general)
 K pmos p-mos p-mosfet transistor
