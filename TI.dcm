@@ -14,4 +14,9 @@ $CMP TPA3116D2
 D Class D Power Amplifier
 $ENDCMP
 #
+$CMP TPS2420
+D 5A, 20V Integrated FET Hot-Swap Controller
+F http://www.ti.com/lit/ds/symlink/tps2420.pdf
+$ENDCMP
+#
 #End Doc Library
